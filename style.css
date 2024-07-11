@@ -1,0 +1,90 @@
+table{
+    width: 1000px;
+}
+nav select{
+    font-size: 10px;
+    background-color: #ef2158;
+    border:none;
+    outline: none;
+    color: white;
+}
+
+#menu{
+    background-color: #ef2158;
+}
+
+.search-button{
+    background-color: #ef2158;
+}
+
+body{
+    width: max-content;
+    margin: auto;
+}
+
+#banner {
+    width: 780px;
+}
+
+
+
+.cart-icon {
+    font-size: 24px; /* Kích thước của biểu tượng */
+    color: #ef2158; /* Màu mặc định */
+    cursor: pointer;
+}
+
+.icon{
+    color: white;
+}
+
+td {
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+#right_menu ul {
+    text-align: left; /* Căn giữa theo chiều ngang */
+    /* vertical-align: ;  */
+    list-style: none;
+    margin: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#right_menu ul li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    /* line-height: 25px; */
+    border-bottom: #a7a7a7 dashed 1px;
+
+}
+
+#hotro{
+    padding-top: 5px;
+}
+
+#header{
+    border: none;
+}
+
+.title{
+    text-align: left;
+    font-weight: bold;
+    color: #ef2158;
+    
+    background-color: #ddd;
+}
+
+.xemthem,a{
+    text-align: right;
+    color: #ef2158;
+}
+
+.tenSP{
+    color: #D9084E;
+}
+h4{
+    color: #D9084E;
+}
